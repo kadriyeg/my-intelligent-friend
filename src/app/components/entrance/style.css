@@ -1,0 +1,28 @@
+
+.title-orange{
+    color: #FF7426;
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 135%; /* 101.25px */
+   
+  }
+.title-black{
+    color: #040404;
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 135%; /* 101.25px */
+    padding-top: 80px;
+}  
+.text{
+    color: #8A8A8A;
+    font-size: 16px;
+    font-style: normal;
+    width: 450px;
+    font-weight: 500;
+    line-height: 171%; /* 47.88px */
+}
+  .teacherimg{
+    width: 100%;
+  }
