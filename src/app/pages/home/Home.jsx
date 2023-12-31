@@ -4,9 +4,9 @@ import EntranceComp from '@/app/components/entrance/page';
 import ServiceCard from '@/app/components/services/card/page';
 import FeatureCard from '@/app/components/features/card/page';
 import FeedbackCard from '@/app/components/feedback/card/page';
-import FileUpload from '@/app/components/file-upload/FileUpload';
+import FileUpload from '@/app/components/fileUpload/page';
 import Footer from '@/app/components/footer/Footer';
-import 'style.css';
+import './style.css';
 
 const HomePage = () => {
     return (
