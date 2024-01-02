@@ -1,0 +1,31 @@
+
+  .dot {
+    width: 10px;
+    height: 10px;
+    margin: 0 5px;
+    background-color: #ffe092;
+    border-radius: 50%;
+    display: inline-block;
+    transition: background-color 0.6s ease;
+  }
+  
+  .slick-dots {
+    bottom: -40px; /* Yuvarlakların konumunu ayarlayabilirsiniz */
+  }
+  
+  .slick-dots .slick-active .dot {
+    background-color: #ffa617; /* Aktif sayfa yuvarlağının rengini belirleyebilirsiniz */
+  }
+
+.card-slider {
+    padding-bottom: 4rem;
+    padding-top: 4rem;
+}
+.card-box {
+    background: #FFF;
+    box-shadow: 0px 4px 88px 0px rgba(0, 0, 0, 0.05);
+    width: 300px;
+    height: 200px;
+    border-radius: 1rem;
+    padding: 4rem 4rem;
+}

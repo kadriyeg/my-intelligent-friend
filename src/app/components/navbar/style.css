@@ -1,3 +1,7 @@
+.logo-box{
+    width: 80%;
+    height: auto;
+}
 .logo {
     font-size: 1.20rem;
     font-weight: 700;
@@ -11,6 +15,25 @@
     padding-top: 4rem;
 }
 
-ul {
-    list-style-type: none;
+.navbar-right a {
+    text-decoration: none;
+    color: #000;
+}
+.navbar-item {
+    color: #1D1D1D;
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 600;
+}
+.navbar-item-giris{
+    border-radius: 218px;
+    background: #4D2C5E;
+    padding: 1rem .5rem 1rem .5rem;
+}
+
+.navbar-item-giris a {
+    color: #FFF;
+    font-size: 1.25rem;
+    font-style: normal;
+    font-weight: 500;
 }

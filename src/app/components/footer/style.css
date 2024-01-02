@@ -1,0 +1,15 @@
+.footer-title {
+    color: #1D1D1D;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.footer-text {
+    color: #606060;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.footer-section {
+    padding: 4rem 0rem 4rem 0rem;
+}
